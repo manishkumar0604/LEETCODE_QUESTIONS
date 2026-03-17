@@ -69,6 +69,7 @@
 | [0912-sort-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/0976-largest-perimeter-triangle) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -209,6 +210,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/manishkumar0604/DSA_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/0976-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -402,6 +404,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manishkumar0604/DSA_practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -512,6 +515,7 @@
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1323-maximum-69-number) |
