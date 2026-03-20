@@ -806,6 +806,7 @@
 | [1148-article-views-i](https://github.com/manishkumar0604/DSA_practice/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/manishkumar0604/DSA_practice/tree/master/1211-queries-quality-and-percentage) |
 | [1393-capital-gainloss](https://github.com/manishkumar0604/DSA_practice/tree/master/1393-capital-gainloss) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/manishkumar0604/DSA_practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Segment Tree
 |  |
 | ------- |
