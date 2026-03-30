@@ -225,6 +225,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2836-neither-minimum-nor-maximum](https://github.com/manishkumar0604/DSA_practice/tree/master/2836-neither-minimum-nor-maximum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manishkumar0604/DSA_practice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -299,6 +300,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/manishkumar0604/DSA_practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/manishkumar0604/DSA_practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/manishkumar0604/DSA_practice/tree/master/3195-separate-black-and-white-balls) |
@@ -374,6 +376,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/manishkumar0604/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3324-split-the-array) |
