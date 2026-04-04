@@ -825,6 +825,7 @@
 | [1393-capital-gainloss](https://github.com/manishkumar0604/DSA_practice/tree/master/1393-capital-gainloss) |
 | [1527-patients-with-a-condition](https://github.com/manishkumar0604/DSA_practice/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/1587-bank-account-summary-ii) |
+| [1729-find-followers-count](https://github.com/manishkumar0604/DSA_practice/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/manishkumar0604/DSA_practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Segment Tree
 |  |
