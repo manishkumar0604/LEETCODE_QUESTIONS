@@ -94,6 +94,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manishkumar0604/DSA_practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1603-running-sum-of-1d-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/manishkumar0604/DSA_practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/manishkumar0604/DSA_practice/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
