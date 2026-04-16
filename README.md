@@ -830,6 +830,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/manishkumar0604/DSA_practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/manishkumar0604/DSA_practice/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/manishkumar0604/DSA_practice/tree/master/1211-queries-quality-and-percentage) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/manishkumar0604/DSA_practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/manishkumar0604/DSA_practice/tree/master/1393-capital-gainloss) |
 | [1527-patients-with-a-condition](https://github.com/manishkumar0604/DSA_practice/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/1587-bank-account-summary-ii) |
