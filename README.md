@@ -309,6 +309,7 @@
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/manishkumar0604/DSA_practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/manishkumar0604/DSA_practice/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/manishkumar0604/DSA_practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
@@ -695,6 +696,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/manishkumar0604/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/manishkumar0604/DSA_practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2833-furthest-point-from-origin](https://github.com/manishkumar0604/DSA_practice/tree/master/2833-furthest-point-from-origin) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3324-split-the-array) |
