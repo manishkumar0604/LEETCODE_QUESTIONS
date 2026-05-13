@@ -94,6 +94,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manishkumar0604/DSA_practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1603-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/manishkumar0604/DSA_practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/manishkumar0604/DSA_practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/manishkumar0604/DSA_practice/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -383,6 +384,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/manishkumar0604/DSA_practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/manishkumar0604/DSA_practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/manishkumar0604/DSA_practice/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -646,6 +648,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manishkumar0604/DSA_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1603-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/manishkumar0604/DSA_practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1854-maximum-population-year](https://github.com/manishkumar0604/DSA_practice/tree/master/1854-maximum-population-year) |
 | [2358-number-of-ways-to-split-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/manishkumar0604/DSA_practice/tree/master/2483-minimum-penalty-for-a-shop) |
