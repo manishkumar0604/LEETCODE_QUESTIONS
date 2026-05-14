@@ -120,6 +120,7 @@
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/manishkumar0604/DSA_practice/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2784-check-if-array-is-good](https://github.com/manishkumar0604/DSA_practice/tree/master/2784-check-if-array-is-good) |
 | [2836-neither-minimum-nor-maximum](https://github.com/manishkumar0604/DSA_practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
@@ -232,6 +233,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manishkumar0604/DSA_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2784-check-if-array-is-good](https://github.com/manishkumar0604/DSA_practice/tree/master/2784-check-if-array-is-good) |
 | [2836-neither-minimum-nor-maximum](https://github.com/manishkumar0604/DSA_practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
@@ -390,6 +392,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/manishkumar0604/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2784-check-if-array-is-good](https://github.com/manishkumar0604/DSA_practice/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
