@@ -11,26 +11,26 @@ public:
             {
                 return mid;
             }
-            if(nums[low]<=nums[mid])
+            if(nums[low]<=nums[mid])  //left part of array will be sorted
             {
-                if (nums[low] <= target && target <= nums[mid]) {
-                //element exists:
+                if (nums[low] <= target && target <= nums[mid]) {  // check element lie
+                //element exists:                                    or not in left part
                 high = mid - 1;
-            }
-            else {
+                }
+                else {
                 //element does not exist:
                 low = mid + 1;
+                }
             }
-            }
-            else{
-                if (nums[mid] <= target && target <= nums[high]) {
+            else{                       //right part of array will be sorted
+                if (nums[mid] <= target && target <= nums[high]) {  // check elemnt lie
                 //element exists:
                 low = mid + 1;
-            }
-            else {
+                }
+                else {
                 //element does not exist:
                 high = mid - 1;
-            }
+                }
             }
         }
         return -1;
