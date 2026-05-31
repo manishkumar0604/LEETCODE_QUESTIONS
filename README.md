@@ -107,6 +107,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/manishkumar0604/DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/manishkumar0604/DSA_practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/manishkumar0604/DSA_practice/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manishkumar0604/DSA_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -231,6 +232,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manishkumar0604/DSA_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2126-destroying-asteroids](https://github.com/manishkumar0604/DSA_practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manishkumar0604/DSA_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -554,6 +556,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/manishkumar0604/DSA_practice/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/manishkumar0604/DSA_practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manishkumar0604/DSA_practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
