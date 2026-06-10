@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool isPalindrome(int x) {
+    bool isPalindrome(int x) {   // palindrom function
         if (x < 0) {
-            return false;
+            return false;   
         }
 
         long long reversed = 0;
