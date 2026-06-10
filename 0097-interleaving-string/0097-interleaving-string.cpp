@@ -6,7 +6,7 @@ public:
         
         if(n + m != s3.size()) return false;
         
-        vector<vector<bool>> dp(n+1, vector<bool>(m+1, false));
+        vector<vector<bool>> dp(n+1, vector<bool>(m+1, false));  //vector for dp
         
         dp[0][0] = true;
         
