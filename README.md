@@ -66,6 +66,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/manishkumar0604/DSA_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [0877-stone-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/manishkumar0604/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0912-sort-an-array) |
