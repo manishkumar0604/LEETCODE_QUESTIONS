@@ -157,6 +157,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3778-transform-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/3778-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/manishkumar0604/DSA_practice/tree/master/3838-weighted-word-mapping) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manishkumar0604/DSA_practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -330,6 +331,7 @@
 | [3636-check-balanced-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/manishkumar0604/DSA_practice/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -514,6 +516,7 @@
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3811-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/manishkumar0604/DSA_practice/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
