@@ -453,6 +453,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/manishkumar0604/DSA_practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/manishkumar0604/DSA_practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/manishkumar0604/DSA_practice/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manishkumar0604/DSA_practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manishkumar0604/DSA_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
