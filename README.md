@@ -156,6 +156,7 @@
 | [3637-trionic-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manishkumar0604/DSA_practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3778-transform-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/3778-transform-array-by-parity) |
 | [3838-weighted-word-mapping](https://github.com/manishkumar0604/DSA_practice/tree/master/3838-weighted-word-mapping) |
@@ -418,6 +419,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manishkumar0604/DSA_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
@@ -684,6 +686,7 @@
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -718,6 +721,7 @@
 | [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -733,6 +737,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3324-split-the-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3778-transform-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
@@ -829,6 +834,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
@@ -883,6 +889,7 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Radix Sort
 |  |
 | ------- |
