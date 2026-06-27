@@ -21,6 +21,7 @@
 | [0055-jump-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/manishkumar0604/DSA_practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manishkumar0604/DSA_practice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/manishkumar0604/DSA_practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manishkumar0604/DSA_practice/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manishkumar0604/DSA_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@
 | [0031-next-permutation](https://github.com/manishkumar0604/DSA_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/manishkumar0604/DSA_practice/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/manishkumar0604/DSA_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
