@@ -102,6 +102,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/manishkumar0604/DSA_practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/manishkumar0604/DSA_practice/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manishkumar0604/DSA_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/manishkumar0604/DSA_practice/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manishkumar0604/DSA_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -314,6 +315,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/manishkumar0604/DSA_practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/manishkumar0604/DSA_practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/manishkumar0604/DSA_practice/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manishkumar0604/DSA_practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/manishkumar0604/DSA_practice/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/manishkumar0604/DSA_practice/tree/master/2000-reverse-prefix-of-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
