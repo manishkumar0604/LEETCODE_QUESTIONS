@@ -154,6 +154,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/manishkumar0604/DSA_practice/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manishkumar0604/DSA_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3634-minimum-removals-to-balance-array) |
@@ -494,6 +495,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/manishkumar0604/DSA_practice/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manishkumar0604/DSA_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -567,6 +569,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/manishkumar0604/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
