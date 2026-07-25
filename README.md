@@ -263,6 +263,7 @@
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/manishkumar0604/DSA_practice/tree/master/3334-apple-redistribution-into-boxes) |
+| [3536-maximum-product-of-two-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3778-transform-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/3778-transform-array-by-parity) |
 ## String
@@ -496,6 +497,7 @@
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3568-find-the-key-of-the-numbers](https://github.com/manishkumar0604/DSA_practice/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manishkumar0604/DSA_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
