@@ -817,6 +817,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/manishkumar0604/DSA_practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/manishkumar0604/DSA_practice/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/manishkumar0604/DSA_practice/tree/master/1980-find-unique-binary-string) |
 ## Trie
