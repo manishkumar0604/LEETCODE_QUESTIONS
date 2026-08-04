@@ -162,6 +162,7 @@
 | [3637-trionic-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manishkumar0604/DSA_practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3778-transform-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/3778-transform-array-by-parity) |
@@ -267,6 +268,7 @@
 | [3334-apple-redistribution-into-boxes](https://github.com/manishkumar0604/DSA_practice/tree/master/3334-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
@@ -432,6 +434,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manishkumar0604/DSA_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
