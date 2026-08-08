@@ -907,6 +907,7 @@
 | [1179-reformat-department-table](https://github.com/manishkumar0604/DSA_practice/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/manishkumar0604/DSA_practice/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/manishkumar0604/DSA_practice/tree/master/1211-queries-quality-and-percentage) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/manishkumar0604/DSA_practice/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/manishkumar0604/DSA_practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/manishkumar0604/DSA_practice/tree/master/1393-capital-gainloss) |
 | [1527-patients-with-a-condition](https://github.com/manishkumar0604/DSA_practice/tree/master/1527-patients-with-a-condition) |
