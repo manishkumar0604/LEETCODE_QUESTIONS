@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/manishkumar0604/DSA_practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/manishkumar0604/DSA_practice/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/manishkumar0604/DSA_practice/tree/master/0066-plus-one) |
@@ -820,6 +821,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/manishkumar0604/DSA_practice/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/manishkumar0604/DSA_practice/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/manishkumar0604/DSA_practice/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/manishkumar0604/DSA_practice/tree/master/1980-find-unique-binary-string) |
