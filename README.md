@@ -951,4 +951,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/manishkumar0604/DSA_practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manishkumar0604/DSA_practice/tree/master/0101-symmetric-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
