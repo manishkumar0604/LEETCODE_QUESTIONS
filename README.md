@@ -311,6 +311,7 @@
 | [0782-jewels-and-stones](https://github.com/manishkumar0604/DSA_practice/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/manishkumar0604/DSA_practice/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -374,6 +375,7 @@
 | [0735-asteroid-collision](https://github.com/manishkumar0604/DSA_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/manishkumar0604/DSA_practice/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/manishkumar0604/DSA_practice/tree/master/2000-reverse-prefix-of-word) |
@@ -955,4 +957,5 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
